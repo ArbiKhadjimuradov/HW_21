@@ -4,41 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84fd69d0-a066-4ec3-afe3-65d198fdab9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/Home_Work_21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="84fd69d0-a066-4ec3-afe3-65d198fdab9f" name="Changes" comment="start">
+      <change afterPath="$PROJECT_DIR$/../Home_Work_21/SRC/Catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home_Work_21/SRC/Contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home_Work_21/SRC/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home_Work_21/SRC/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home_Work_21/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home_Work_21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../Home_Work_21" value="Feature_HW_21" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Home_Work_21" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2qivAdVjYspiD1fAAcvCVRjJMQM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Admin/AppData/Roaming/Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Develop&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/AppData/Roaming/Python&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\my_prj_HW\Home_Work_21" />
@@ -60,6 +75,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735158067947</updated>
     </task>
+    <task id="LOCAL-00001" summary="start">
+      <option name="closed" value="true" />
+      <created>1735219854230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735219854230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
 </project>
