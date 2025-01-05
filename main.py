@@ -1,10 +1,10 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 
-from SRC.root import root_join
+from src.root import root_join
 
 host_name = 'localhost'
-server_port = 8080
+server_port = 8000
 
 
 class MyServer(BaseHTTPRequestHandler):
@@ -14,7 +14,7 @@ class MyServer(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header("Content-type", "text/html")
         self.end_headers()
-        with open(root_join('html_pages', 'contacts.html'), encoding='utf-8') as f:
+        with open(root_join('src', 'contacts.html'), encoding='utf-8') as f:
             content = f.read()
         self.wfile.write(bytes(content, 'utf-8'))
 

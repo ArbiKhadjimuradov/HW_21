@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84fd69d0-a066-4ec3-afe3-65d198fdab9f" name="Changes" comment="Создал репозиторий">
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/SRC/Catalog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/SRC/Contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/SRC/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Home_Work_21/SRC/home.html" afterDir="false" />
+    <list default="true" id="84fd69d0-a066-4ec3-afe3-65d198fdab9f" name="Changes" comment="Finish">
       <change beforePath="$PROJECT_DIR$/../Home_Work_21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home_Work_21/SRC/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home_Work_21/SRC/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/src/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home_Work_21/SRC/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/src/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home_Work_21/SRC/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/src/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home_Work_21/SRC/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/src/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home_Work_21/SRC/root.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/src/root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home_Work_21/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home_Work_21/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../Home_Work_21/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../Home_Work_21" value="Feature_HW_21" />
+        <entry key="$PROJECT_DIR$/../Home_Work_21" value="Develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Home_Work_21" />
@@ -43,17 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Develop",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Admin/AppData/Roaming/Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.root.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Feature__HW__21&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/AppData/Roaming/Python&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\my_prj_HW\Home_Work_21" />
@@ -91,12 +96,39 @@
       <option name="project" value="LOCAL" />
       <updated>1735302449395</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" Создал главную и каталог">
+      <option name="closed" value="true" />
+      <created>1735395833793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735395833793</updated>
+    </task>
+    <task id="LOCAL-00004" summary="All done">
+      <option name="closed" value="true" />
+      <created>1735399378582</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735399378582</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finish">
+      <option name="closed" value="true" />
+      <created>1735469422234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735469422234</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="Создал репозиторий" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создал репозиторий" />
+    <MESSAGE value=" Создал главную и каталог" />
+    <MESSAGE value="All done" />
+    <MESSAGE value="Finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish" />
   </component>
 </project>

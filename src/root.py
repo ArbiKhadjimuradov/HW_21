@@ -9,5 +9,5 @@ def root_join(*parts):
 
 
 if __name__ == '__main__':
-    with open(root_join('SRC', 'contacts.html'), encoding='utf-8') as f:
+    with open(root_join('html_pages', 'contacts.html'), encoding='utf-8') as f:
         content = f.read()
